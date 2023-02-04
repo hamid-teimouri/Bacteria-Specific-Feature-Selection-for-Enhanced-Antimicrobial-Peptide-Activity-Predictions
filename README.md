@@ -1,4 +1,5 @@
 # Bacterial-Specific-feature-Selection-for-Enhanced-Antimicrobial-Peptide-Activity-Predictions 
+## Developer: Hamid Teimouri and Angela Medvedeva
 
 There are several classes of short peptide molecules, known as antimicrobial peptides
 (AMPs), which are produced during the immune responses of living organisms against
